@@ -14,7 +14,7 @@ export default function ModalScreen() {
     </ThemedView>
   );
 }
-// hi
+
 
 const styles = StyleSheet.create({
   container: {
